@@ -9,5 +9,5 @@ func main() {
 	for i := 0; i < 12; i++ {
 		sum += i
 	}
-	fmt.Println("%d", sum)
+	fmt.Println(sum)
 }
